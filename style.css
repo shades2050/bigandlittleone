@@ -1,0 +1,43 @@
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #333;
+    }
+    h1 {
+      font-weight: 600;
+      margin-bottom: 0;
+    }
+
+    .subtitle {
+      margin-top: -0.1em;
+      margin-bottom: 0.4em;
+      font-weight: normal;
+      font-size: 1.1em; /* adjust up/down to taste */
+    }
+
+    h3 {
+      margin-top: 0;
+    }
+
+    .cover {
+      display: block;            /* allows margin auto to centre the image */
+      max-width: 25vw;           /* 25% of the viewport width */
+      height: auto;              /* maintain aspect ratio */
+      margin: 20px auto;         /* centres the image */
+      border-radius: 6px;
+    }
+
+    .footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #666;
+      border-top: 1px solid #ddd;
+      padding-top: 15px;
+    }
+
+    .contact-details {
+      margin-bottom: 3em;
+    }
