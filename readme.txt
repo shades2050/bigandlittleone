@@ -14,3 +14,5 @@ New files:
 - style.css
 
 Initially, buy link is just to Lulu.com to be replaced with book link once available after proof.
+
+2nd update made same day to correct the title on all pages!
