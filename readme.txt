@@ -1,18 +1,7 @@
-New batch of files updated 13 Apr 2026.
+New batch of files updated 12th May 2026.
 
 Major update.
 
-Moving from single file single page with embedded style to:
+Introducing banner text in-line.
 
-replaced index.html with page links, fixes and separated styles to style.css
-
-New files:
-- about.html
-- buy.html
-- contact.html
-- details.html
-- style.css
-
-Initially, buy link is just to Lulu.com to be replaced with book link once available after proof.
-
-2nd update made same day to correct the title on all pages!
+Link updated to buy book.
